@@ -33,4 +33,4 @@ Passionate about Data Science, Machine Learning, and Artificial Intelligence. In
 
 Email: work.krishnpatel@gmail.com
 
-LinkedIn: [Add Your LinkedIn Profile Link Here]
+LinkedIn: https://www.linkedin.com/in/krishn-patel-7002a8387?utm_source=share_via&utm_content=profile&utm_medium=member_android
